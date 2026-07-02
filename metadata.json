@@ -1,0 +1,8 @@
+{
+  "name": "MÁXIMO 10.0",
+  "description": "A inteligência artificial definitiva com fusão global de IAs e ecossistema de desenvolvimento completo. Inclui chat multimodal, analisador de ZIPs, estúdio Android APK, simulador Kali Linux, além de novos módulos como Estúdio OpenCode (com Gerenciador de Pastas, Arquivos e Exportador ZIP real), Consenso Multi-Agente (com Auditor Neural de Conexões), Playground SQL, Editor de Códigos, Conversor de Cores, Sintetizador de Som SFX e Quadro Kanban.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
